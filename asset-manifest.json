@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KTJ3/static/css/main.06d05737.css",
+    "main.js": "/KTJ3/static/js/main.d70c9990.js",
+    "static/media/React_logo1.png": "/KTJ3/static/media/React_logo1.7feb6621573e09d2a6d9.png",
+    "index.html": "/KTJ3/index.html",
+    "main.06d05737.css.map": "/KTJ3/static/css/main.06d05737.css.map",
+    "main.d70c9990.js.map": "/KTJ3/static/js/main.d70c9990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d05737.css",
+    "static/js/main.d70c9990.js"
+  ]
+}
